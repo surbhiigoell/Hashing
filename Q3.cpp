@@ -2,9 +2,10 @@
 
 //Cumulative Sum Query
 
-// use unordered_map <int,int>, instead of frequency add index to the map mp[nums[i]] = i
-// Time complexity : O(n)
+// make a prefix sum array of size n. Which has sum till i’th index. So for a range sum=r - (l-1)
+// Time complexity : O(n+q)
 // Space complexity : O(n)
+
 
 #include <iostream>
 #include <vector>
