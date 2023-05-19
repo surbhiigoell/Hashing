@@ -1,3 +1,5 @@
+//HASHING QUESTION NO. 1
+
 // CPP program to answer queries for frequencies
 // in O(1) time.
 #include <iostream>
