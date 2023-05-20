@@ -1,5 +1,7 @@
 // HASHING QUESTION NO. 5
 
+// First Unique Character in a String
+
 // insert all elements in map then check for element with 1 frequency.
 // Time complexity : O(n)
 // Space complexity : O(1)
